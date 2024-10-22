@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://socialpitcher.com/sitemap.xml
